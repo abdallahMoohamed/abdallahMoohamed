@@ -21,7 +21,7 @@ I’m a **Computer Science Student** in 3rd year in collage
 ## Solve Problems on **LeetCode** .. [See my Profile](https://leetcode.com/abdullamoohammed/)
 
 ## 📞 How To Reach Me
-<a href="[linkedin.com/in/abdallah-mohamed-670314220](https://www.linkedin.com/in/abdallah-mohamed-670314220/)" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="40" align="left"/></a>
+<a href="https://www.linkedin.com/in/abdallah-mohamed-670314220/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="40" align="left"/></a>
 
 <a href="abdullamoohammed@gmail.com" target="_blank">
   <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width="40" align="left" />
