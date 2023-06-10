@@ -1,6 +1,6 @@
 
 <!-- name and who i am start -->
-# 👋 Hi, I'm Ahmed Shoura
+# 👋 Hi, I'm Abdallah Mohamed
 I’m a **Computer Science Student** in 3rd year in collage
 <!-- name and who i am end -->
 
@@ -19,7 +19,7 @@ I’m a **Computer Science Student** in 3rd year in collage
 <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="40"> <!-- JS -->
 
 
-## Solve Problems on **CodeForces** .. [See my Profile](https://codeforces.com/profile/X_Hunter_X)
+## Solve Problems on **LeetCode** .. [See my Profile](https://leetcode.com/abdullamoohammed/)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoura279&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoura279)](https://github.com/anuraghazra/github-readme-stats)
