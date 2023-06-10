@@ -5,6 +5,7 @@ I’m a **Computer Science Student** in 3rd year in collage
 <!-- name and who i am end -->
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdallahMoohamed&label=Profile%20views&color=0e75b6&style=flat" alt="magdybadr978" /> </p>
 
 
 ## Skills and Experiance
@@ -16,6 +17,9 @@ I’m a **Computer Science Student** in 3rd year in collage
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40" align="left"> <!-- Git -->
 <img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" width="40" align="left"> <!-- Github -->
 <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="40"> <!-- JS -->
+<img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="40" align="left"> <!-- Node.js -->
+<img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" width="40" align="left"> <!-- Express.js -->
+<img src="https://cdn-icons-png.flaticon.com/512/1199/1199128.png" width="40" align="left"> <!-- MySQL -->
 
 
 ## Solve Problems on **LeetCode** .. [See my Profile](https://leetcode.com/abdullamoohammed/)
